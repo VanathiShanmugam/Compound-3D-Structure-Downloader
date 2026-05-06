@@ -1,1 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
 
+# Downloaded chemical structures
+*.sdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: environment files
+venv/
+.env
